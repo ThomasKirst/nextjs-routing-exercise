@@ -1,4 +1,3 @@
-import '../styles/globals.css';
 import GlobalStyle from '../components/GlobalStyle';
 import Layout from '../components/Layout';
 
