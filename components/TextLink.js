@@ -1,15 +1,15 @@
 import styled from 'styled-components';
 
 const TextLink = styled.a`
-  padding: 0.5rem;
+  /* padding: 0.5rem;
   color: white;
   background: darkslategray;
   border: none;
-  text-decoration: none;
+  text-decoration: none; */
 
-  &:hover {
+  /* &:hover {
     background: darkgreen;
-  }
+  } */
 `;
 
 export default TextLink;

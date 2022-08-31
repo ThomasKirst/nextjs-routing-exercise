@@ -6,7 +6,7 @@ const NavLink = styled.a`
   background: none;
   border: none;
   color: ${({ active }) => (active ? 'lime' : 'white')};
-  cursor: pointer;
+  /* cursor: pointer; */
   text-decoration: none;
 
   &:hover {
